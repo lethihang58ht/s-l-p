@@ -1,0 +1,21 @@
+#head h1{
+  text-align: center;
+  color: #FF3399;
+  background-color: #FECFFD;
+}
+.noidung{
+  background-color: #FFFFCC;
+}
+doan1 p{
+  text-align: center;
+  color: blue;
+
+}
+doan2 p{
+  text-align: center;
+  color: red;
+}
+doan3 p{
+  text-align: center;
+  color: green;
+}
