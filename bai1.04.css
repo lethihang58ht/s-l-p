@@ -1,0 +1,16 @@
+body{
+  color:#008888;
+}
+.noidung1{
+  background-color: #008888;
+  color: white;
+}
+.image {
+  color: #008888;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-size: contain;
+  background-position:1px;
+  width: 50px;
+   height: 50px;
+}

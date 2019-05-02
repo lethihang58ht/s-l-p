@@ -1,0 +1,10 @@
+.head{
+  text-align: center;
+  border: 2px solid red;
+  color: red;
+}
+.bth{
+  background-color: orange;
+  text-align: right;
+  height: 30px;
+}
